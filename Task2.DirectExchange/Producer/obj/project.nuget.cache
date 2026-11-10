@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6RBca6oCjYOsZyYP+3VcQbt0jlHB9QfxloR9HM6eMDjUpTJ4DTh3Ep2eEfY2rAR9j4tO12kbH6VXXnc7/tiGNA==",
+  "success": true,
+  "projectFilePath": "/home/ivanka/labs_7/pr4/PR4_Variant5/Task2.DirectExchange/Producer/Producer.csproj",
+  "expectedPackageFiles": [
+    "/home/ivanka/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512",
+    "/home/ivanka/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/home/ivanka/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
